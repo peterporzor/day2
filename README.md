@@ -1,2 +1,14 @@
-# day2
-this is day 2 and im curious
+# day2.2
+12345
+12345
+12345
+ababgb
+bgwrbw
+bwgb
+nwy
+gbgbgb
+bgbb
+gbgbtgb
+btbrtb
+
+
